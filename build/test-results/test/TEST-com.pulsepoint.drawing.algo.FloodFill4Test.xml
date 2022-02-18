@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pulsepoint.drawing.algo.FloodFill4Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-16T00:03:21" hostname="QQVava" time="0.002">
-  <properties/>
-  <testcase name="fill()" classname="com.pulsepoint.drawing.algo.FloodFill4Test" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
