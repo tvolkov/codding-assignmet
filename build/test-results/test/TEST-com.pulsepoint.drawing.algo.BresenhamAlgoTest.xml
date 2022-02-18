@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pulsepoint.drawing.algo.BresenhamAlgoTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-02-16T00:03:21" hostname="QQVava" time="0.035">
+  <properties/>
+  <testcase name="drawVerticalLine()" classname="com.pulsepoint.drawing.algo.BresenhamAlgoTest" time="0.026"/>
+  <testcase name="drawLineStartUnderEnd()" classname="com.pulsepoint.drawing.algo.BresenhamAlgoTest" time="0.001"/>
+  <testcase name="drawLine()" classname="com.pulsepoint.drawing.algo.BresenhamAlgoTest" time="0.001"/>
+  <testcase name="drawLineStartToTheLeftEnd()" classname="com.pulsepoint.drawing.algo.BresenhamAlgoTest" time="0.001"/>
+  <testcase name="drawLineElongatedByY()" classname="com.pulsepoint.drawing.algo.BresenhamAlgoTest" time="0.0"/>
+  <testcase name="drawHorizontalLine()" classname="com.pulsepoint.drawing.algo.BresenhamAlgoTest" time="0.001"/>
+  <testcase name="drawDot()" classname="com.pulsepoint.drawing.algo.BresenhamAlgoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

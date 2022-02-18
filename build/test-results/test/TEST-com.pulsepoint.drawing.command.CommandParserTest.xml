@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pulsepoint.drawing.command.CommandParserTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-02-16T00:03:21" hostname="QQVava" time="0.05">
+  <properties/>
+  <testcase name="[1] C 1 2" classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.024"/>
+  <testcase name="[2]       C 1 2" classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.001"/>
+  <testcase name="[3] C    1 2" classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.0"/>
+  <testcase name="[4] C 1     2" classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.001"/>
+  <testcase name="[5] C 1 2   " classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.001"/>
+  <testcase name="[6]     C    1     2   " classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.001"/>
+  <testcase name="parseCreateRectangle()" classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.0"/>
+  <testcase name="parseCreateLine()" classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.0"/>
+  <testcase name="parseCreateQuit()" classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.0"/>
+  <testcase name="[1] L 1 2 3" classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.001"/>
+  <testcase name="[2] R 1 2 3" classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.001"/>
+  <testcase name="[3] b 1 2" classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.0"/>
+  <testcase name="[1] No Command Here" classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.001"/>
+  <testcase name="[2] " classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.001"/>
+  <testcase name="parseCreateBucketFill()" classname="com.pulsepoint.drawing.command.CommandParserTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pulsepoint.drawing.canvas.IntegrationTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-02-16T00:03:22" hostname="QQVava" time="0.012">
+  <properties/>
+  <testcase name="should draw some various commands()" classname="com.pulsepoint.drawing.canvas.IntegrationTest" time="0.008"/>
+  <testcase name="should draw rectangle outside canvas()" classname="com.pulsepoint.drawing.canvas.IntegrationTest" time="0.001"/>
+  <testcase name="should fill with a colour space between two lines()" classname="com.pulsepoint.drawing.canvas.IntegrationTest" time="0.002"/>
+  <system-out><![CDATA[----------------------
+|                    |
+|                    |
+|                    |
+|                    |
+----------------------
+
+----------------------
+|                    |
+|xxxxxx              |
+|                    |
+|                    |
+----------------------
+
+----------------------
+|                    |
+|xxxxxx              |
+|     x              |
+|     x              |
+----------------------
+
+----------------------
+|             xxxxx  |
+|xxxxxx       x   x  |
+|     x       xxxxx  |
+|     x              |
+----------------------
+
+----------------------
+|oooooooooooooxxxxxoo|
+|xxxxxxooooooox   xoo|
+|     xoooooooxxxxxoo|
+|     xoooooooooooooo|
+----------------------
+
+----------------------
+|                    |
+|          xxxxxxxxxx|
+|          x         |
+|          x         |
+----------------------
+
+----------------------
+|               xx   |
+|xxx              xx |
+|   xxxxx           x|
+|        xxx         |
+----------------------
+
+----------------------
+|oooooooooooooooxx   |
+|xxxooooooooooooooxx |
+|   xxxxxooooooooooox|
+|        xxxooooooooo|
+----------------------
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
